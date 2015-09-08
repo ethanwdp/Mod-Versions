@@ -2,6 +2,6 @@ description=Adds an in game chat menu, admin commands, conditional speech notifi
 id=LetMeSpeak
 name=Let Me Speak!
 
-modversion=1.4
-pzversion=32.26
+modversion=1.4.1
+pzversion=32.27
 versionurl=https://raw.githubusercontent.com/ethanwdp/Mod-Versions/master/Let-Me-Speak/mod.info
